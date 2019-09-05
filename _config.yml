@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Academic Profile"
 title_separator          : "-"
 name                     : &name "Thomas Pollok"
 description              : &description "Research Assistant"
