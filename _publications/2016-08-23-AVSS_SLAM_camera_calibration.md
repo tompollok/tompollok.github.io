@@ -1,7 +1,7 @@
 ---
 title: "A visual SLAM-based approach for calibration of distributed camera networks"
 collection: publications
-permalink: /publication/2011-08-30-AVSS_ImageToPanoramaRegistration
+permalink: /publication/2016-08-23-AVSS_SLAM_camera_calibration
 excerpt: 'This paper is about calibrating an arbitrary heterogeneous camera setup by reconstructing the 3D scene from a video using Visual SLAM to create a common reference coordinate frame.'
 date: 2016-08-23
 venue: '2016 13th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)'
